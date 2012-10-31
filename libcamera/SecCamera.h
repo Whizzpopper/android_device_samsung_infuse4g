@@ -82,8 +82,6 @@ namespace android {
 #error "Please define the Camera module"
 #endif
 
-#define M5MO_PREVIEW_WIDTH            800
-#define M5MO_PREVIEW_HEIGHT           480
 #define M5MO_SNAPSHOT_WIDTH           3264
 #define M5MO_SNAPSHOT_HEIGHT          2448
 
