@@ -10,4 +10,10 @@
         "target_path": "packages/apps/SamsungServiceMode",
         "branch": "jellybean"
     }
+    ,
+    {
+        "repository": "android_device_samsung_aries-common",
+        "target_path": "device/samsung/aries-common",
+        "branch": "jellybean"
+    }
   ]
